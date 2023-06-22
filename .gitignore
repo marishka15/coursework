@@ -1,0 +1,8 @@
+__pyche__/
+venv/
+.idea/
+.vscode/
+*.sqilet3
+*.pyc
+files.json
+.env
